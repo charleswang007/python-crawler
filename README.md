@@ -1,6 +1,6 @@
 # python-crawler
 
-## Notes from course *爬蟲與社群聆聽視覺化分析實務課程-使用Python* by 恆逸教育訓練中心
+Notes from course *爬蟲與社群聆聽視覺化分析實務課程-使用Python* by 恆逸教育訓練中心
 
 ### Summary
 - 社群網路- Social Network
